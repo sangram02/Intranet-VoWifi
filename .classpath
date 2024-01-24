@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/opencv-3.4.1-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/javacpp-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/WebCam/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/WebCam/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/slf4j-api-1.7.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sangr/Downloads/webcam-capture-0.3.13-20200330.202351-7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
